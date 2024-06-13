@@ -1,0 +1,102 @@
+/* styles.css */
+
+.toggle {
+  background-color: #ffffff;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+}
+
+body.light-theme .navbar-toggler-icon {
+  background-color: #f6efef;
+  color: #000000;
+  border: 1px solid #000000;
+}
+
+body.dark-theme {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+body.light-theme {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.navbar-dark {
+  background-color: #121212 !important;
+}
+
+.navbar-light {
+  background-color: #ffffff !important;
+}
+
+.navbar-dark .nav-link,
+.navbar-dark .dropdown-menu {
+  color: #ffffff !important;
+}
+
+.navbar-light .nav-link,
+.navbar-light .dropdown-menu {
+  color: #000000 !important;
+}
+.navbar-toggler{
+  background-color: #ffffff;
+}
+
+.dropdown-menu {
+  background-color: inherit;
+}
+
+.card-dark {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.card-light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.card-dark .cartItemDetail {
+  color: #ffffff;
+}
+
+.card-light .cartItemDetail {
+  color: #000000;
+}
+
+.card-img-small2 {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+
+.card-dark .card-title {
+  color: #ffffff;
+}
+
+.card-light .card-title {
+  color: #000000;
+}
+/* styles.css */
+body.dark-theme .card {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+body.light-theme .card {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.hide {
+  display: none;
+ 
+}
+
+/* Dark theme styles */
+.navbar-container.dark {
+  background-color: #333;
+  color: #fff;
+  /* Add more dark theme styles as needed */
+}
