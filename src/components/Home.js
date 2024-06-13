@@ -73,7 +73,7 @@ const Home = () => {
 
   return (
     <>
-
+<h1>Noob</h1>
 {/* 
 <div class="icon-bar">
   <a href="/" className="facebook"><i className="fa fa-facebook"></i></a> 
